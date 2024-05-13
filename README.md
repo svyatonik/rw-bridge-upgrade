@@ -1,3 +1,4 @@
+```
 == Compressed
  Version          : bridge-hub-rococo-1011001 (bridge-hub-rococo-0.tx5.au1)
  Metadata         : V14
@@ -19,3 +20,4 @@
  IPFS             : QmWhX2WVno8xbwFVEFZqjiN72YsqrZfZxsJ99hQvyNozzr
  BLAKE2_256       : 0x6fb93aba7aa956b3607afe8b5b2e03e669482dca2c0da94a20e8651777944701
  Wasm             : ./cumulus/parachains/runtimes/bridge-hubs/bridge-hub-westend/target/srtool/release/wbuild/bridge-hub-westend-runtime/bridge_hub_westend_runtime.compact.compressed.wasm
+```
